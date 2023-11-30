@@ -1,0 +1,20 @@
+h1{
+    color: red;
+    background-color: black;
+    width: 500px;
+    height: 500px;
+}
+p{
+    font-size: 25px;
+    text-align: justify;
+    text-align-last:justify ;
+    text-decoration: overline;
+    text-decoration-style: wavy;
+    text-decoration-color: orange;
+    text-transform: capitalize;
+    line-height: 2;
+    word-spacing: 20px;
+    letter-spacing: 20px;
+    font-family: 'Ephesis'
+
+}
